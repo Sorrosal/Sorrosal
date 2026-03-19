@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sergio%20Sorrosal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Tech%20Lead%20%7C%20Software%20Architect%20%7C%20Azure%20Cloud%20Expert&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sergio%20Sorrosal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineering%20Manager%20%7C%20Solutions%20Architect%20%7C%20Azure%20Cloud%20Expert&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
@@ -18,17 +18,17 @@
 
 ```typescript
 const sergio: Developer = {
-  role:       "Tech Lead & Software Architect",
-  company:    "Inetum",
+  role:       "Engineering Manager & Solutions Architect",
+  company:    "Deveco.IT",
   location:   "Zaragoza, Spain 🇪🇸",
-  focus:      ["Microservices", "Azure Cloud", "DDD", "CI/CD"],
-  building:   "Scalable platforms for the public sector",
-  mentoring:  7, // developers
+  focus:      ["Cloud Architecture", "Engineering Leadership", "DevOps", "DDD"],
+  building:   "Scalable, reliable and high-quality software solutions",
+  leading:    "Multidisciplinary engineering teams",
   available:  true,
 };
 ```
 
-I'm a seasoned engineer and software architect with **6+ years** of experience building full-stack .NET and Azure solutions. I thrive at the intersection of architecture, cloud infrastructure, and team leadership — turning complex problems into clean, scalable systems.
+I'm an Engineering Manager and Solutions Architect with **7+ years** of experience designing cloud and on-premise architectures and leading multidisciplinary engineering teams. At **Deveco.IT** I act as the bridge between strategy, architecture, and technical execution — translating business needs into scalable, secure, and maintainable solutions while fostering a DevOps culture and continuous improvement.
 
 ---
 
